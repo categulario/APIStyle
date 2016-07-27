@@ -29,6 +29,8 @@
     "eslint": "^1.10.3",
     "eslint-loader": "^1.1.1",
     "eslint-plugin-react": "^3.12.0",
+    "node-sass": "^3.8.0",
+    "sass-loader": "^4.0.0",
     "style-loader": "^0.13.0",
     "webpack": "^1.12.9",
     "webpack-dev-server": "^1.14.0"
